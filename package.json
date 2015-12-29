@@ -1,5 +1,5 @@
 {
-  "name": "acuvue",
+  "name": "auto-web",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "devDependencies": {
     "browser-sync": "^2.10.1",
     "gulp": "^3.9.0",
-    "gulp-svg-symbols": "^1.0.0"
+    "gulp-clean": "^0.3.1",
+    "gulp-jade": "^1.1.0"
   }
 }
